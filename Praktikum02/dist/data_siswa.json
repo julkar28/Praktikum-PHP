@@ -1,0 +1,224 @@
+{
+    "siswa": [
+        {
+            "nama": "Tiger Nixon",
+            "matkul": "BDI",
+            "uts": 37,
+            "uas": 78,
+            "tugas": 98,
+            "total": 72.7,
+            "grade": "B",
+            "state": "LULUS"
+        },
+        {
+            "nama": "Garrett Winters",
+            "matkul": "DDP",
+            "uts": 91,
+            "uas": 65,
+            "tugas": 90,
+            "total": 81.55,
+            "grade": "B",
+            "state": "LULUS"
+        },
+        {
+            "nama": "Ashton Cox",
+            "matkul": "BDI",
+            "uts": 57,
+            "uas": 36,
+            "tugas": 69,
+            "total": 53.85,
+            "grade": "D",
+            "state": "TIDAK LULUS"
+        },
+        {
+            "nama": "Cedric Kelly",
+            "matkul": "BDI",
+            "uts": 86,
+            "uas": 75,
+            "tugas": 67,
+            "total": 75.5,
+            "grade": "B",
+            "state": "LULUS"
+        },
+        {
+            "nama": "Airi Satou",
+            "matkul": "DDP",
+            "uts": 23,
+            "uas": 53,
+            "tugas": 44,
+            "total": 40.85,
+            "grade": "D",
+            "state": "TIDAK LULUS"
+        },
+        {
+            "nama": "Brielle Williamson",
+            "matkul": "WEB1",
+            "uts": 85,
+            "uas": 24,
+            "tugas": 29,
+            "total": 44.05,
+            "grade": "D",
+            "state": "TIDAK LULUS"
+        },
+        {
+            "nama": "Herrod Chandler",
+            "matkul": "BDI",
+            "uts": 96,
+            "uas": 24,
+            "tugas": 82,
+            "total": 65.9,
+            "grade": "C",
+            "state": "LULUS"
+        },
+        {
+            "nama": "Rhona Davidson",
+            "matkul": "BDI",
+            "uts": 45,
+            "uas": 34,
+            "tugas": 25,
+            "total": 34.15,
+            "grade": "E",
+            "state": "TIDAK LULUS"
+        },
+        {
+            "nama": "Colleen Hurst",
+            "matkul": "DDP",
+            "uts": 63,
+            "uas": 94,
+            "tugas": 92,
+            "total": 84,
+            "grade": "B",
+            "state": "LULUS"
+        },
+        {
+            "nama": "Sonya Frost",
+            "matkul": "DDP",
+            "uts": 100,
+            "uas": 91,
+            "tugas": 57,
+            "total": 81.8,
+            "grade": "B",
+            "state": "LULUS"
+        },
+        {
+            "nama": "Jena Gaines",
+            "matkul": "DDP",
+            "uts": 27,
+            "uas": 85,
+            "tugas": 25,
+            "total": 46.6,
+            "grade": "D",
+            "state": "TIDAK LULUS"
+        },
+        {
+            "nama": "Quinn Flynn",
+            "matkul": "WEB1",
+            "uts": 27,
+            "uas": 84,
+            "tugas": 66,
+            "total": 60.6,
+            "grade": "C",
+            "state": "LULUS"
+        },
+        {
+            "nama": "Charde Marshall",
+            "matkul": "WEB1",
+            "uts": 41,
+            "uas": 67,
+            "tugas": 24,
+            "total": 44.15,
+            "grade": "D",
+            "state": "TIDAK LULUS"
+        },
+        {
+            "nama": "Haley Kennedy",
+            "matkul": "DDP",
+            "uts": 73,
+            "uas": 88,
+            "tugas": 29,
+            "total": 62.85,
+            "grade": "C",
+            "state": "LULUS"
+        },
+        {
+            "nama": "Tatyana Fitzpatrick",
+            "matkul": "DDP",
+            "uts": 29,
+            "uas": 93,
+            "tugas": 34,
+            "total": 53.15,
+            "grade": "D",
+            "state": "TIDAK LULUS"
+        },
+        {
+            "nama": "Michael Silva",
+            "matkul": "DDP",
+            "uts": 49,
+            "uas": 81,
+            "tugas": 56,
+            "total": 62.65,
+            "grade": "C",
+            "state": "LULUS"
+        },
+        {
+            "nama": "Paul Byrd",
+            "matkul": "BDI",
+            "uts": 92,
+            "uas": 87,
+            "tugas": 21,
+            "total": 65.4,
+            "grade": "C",
+            "state": "LULUS"
+        },
+        {
+            "nama": "Gloria Little",
+            "matkul": "BDI",
+            "uts": 49,
+            "uas": 58,
+            "tugas": 48,
+            "total": 51.8,
+            "grade": "D",
+            "state": "TIDAK LULUS"
+        },
+        {
+            "nama": "Bradley Greer",
+            "matkul": "WEB1",
+            "uts": 79,
+            "uas": 33,
+            "tugas": 70,
+            "total": 59.75,
+            "grade": "C",
+            "state": "LULUS"
+        },
+        {
+            "nama": "Dai Rios",
+            "matkul": "DDP",
+            "uts": 71,
+            "uas": 95,
+            "tugas": 66,
+            "total": 77.65,
+            "grade": "B",
+            "state": "LULUS"
+        },
+        {
+            "nama": "Jenette Caldwell",
+            "matkul": "WEB1",
+            "uts": 23,
+            "uas": 55,
+            "tugas": 70,
+            "total": 50.65,
+            "grade": "D",
+            "state": "TIDAK LULUS"
+        },
+        {
+            "nama": "julkarnain",
+            "matkul": "WEB1",
+            "uts": "100",
+            "uas": "100",
+            "tugas": "100",
+            "total": 100,
+            "grade": "A",
+            "state": "LULUS"
+        }
+    ]
+}
